@@ -543,6 +543,8 @@ function draw_title_screen()
  c_print("aberrations", 60, 14)
  --print(#ab_options, 5, 5)
  print("press ❎ to play", 33, 72, 5)
+ print("game by GnOGR", 72, 116)
+ print("for the acerola jam 0 - 2024", 12, 122)
 end
 
 function draw_option(i)
